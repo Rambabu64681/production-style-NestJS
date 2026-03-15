@@ -1,0 +1,6 @@
+{
+  "transactionId": "generated-uuid",
+  "status": "SUCCESS",
+  "message": "Transaction processed successfully",
+  "createdAt": "2026-03-15T12:00:00.000Z"
+}
