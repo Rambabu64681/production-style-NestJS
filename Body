@@ -1,0 +1,6 @@
+{
+  "senderAccount": "1234567890",
+  "receiverAccount": "0987654321",
+  "amount": 2500,
+  "currency": "USD"
+}
